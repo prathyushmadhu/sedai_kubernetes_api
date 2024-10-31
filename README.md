@@ -1,1 +1,0 @@
-# sedai_kubernetes_api
